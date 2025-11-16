@@ -1,0 +1,7 @@
+Flask
+scikit-learn
+pandas
+joblib
+matplotlib
+seaborn
+catboost

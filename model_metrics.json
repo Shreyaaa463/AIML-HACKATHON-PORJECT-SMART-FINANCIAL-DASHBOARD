@@ -1,0 +1,30 @@
+{
+    "Decision Tree": {
+        "model": "Decision Tree",
+        "accuracy": 0.792,
+        "precision": 0.881,
+        "recall": 0.813,
+        "f1": 0.846
+    },
+    "Random Forest": {
+        "model": "Random Forest",
+        "accuracy": 0.854,
+        "precision": 0.833,
+        "recall": 0.989,
+        "f1": 0.905
+    },
+    "Logistic Regression": {
+        "model": "Logistic Regression",
+        "accuracy": 0.854,
+        "precision": 0.833,
+        "recall": 0.989,
+        "f1": 0.905
+    },
+    "CatBoost": {
+        "model": "CatBoost",
+        "accuracy": 0.892,
+        "precision": 0.881,
+        "recall": 0.978,
+        "f1": 0.927
+    }
+}
